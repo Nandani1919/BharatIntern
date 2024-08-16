@@ -39,4 +39,4 @@ This project belongs solely to the author.
 ## Screenshot
 
 <br> <br>
-<img src=https://github.com/Nandani1919/CODSOFT/blob/main/Portfolio/Images/Portfolio.png>
+<img src=https://github.com/Nandani1919/BharatIntern/blob/main/Portfolio/Images/Screenshot%202024-08-16%20110732.png>
